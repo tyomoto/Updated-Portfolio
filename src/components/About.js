@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />Full-Stack Developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            FILLER CONTENT ABOUT ME
+            Full stack web developer leveraging my business/marketing background, to help bridge the gap between consumer/client and the technical side.  I am looking forward to using my newly developed skills to help with improving user interaction and am most excited to continue my learnings in this new and exciting field.
           </p>
           <div className="flex justify-center">
             <a

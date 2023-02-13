@@ -45,7 +45,7 @@ export default function Contact() {
                 Github
               </h2>
               <p className="mt-1">
-              https://github.com/tyomoto
+                https://github.com/tyomoto
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -58,7 +58,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">###-###-####</p>
+              <p className="leading-relaxed">Please contact via email </p>
             </div>
           </div>
         </div>
@@ -71,7 +71,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            FILLER CONTENT 
+            FILLER CONTENT
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
