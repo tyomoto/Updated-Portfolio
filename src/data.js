@@ -5,7 +5,7 @@ export const projects = [
     description:
       "This project is a Full-Stack inventory management system that integrates seamlessly with a fully functional eCommerce site.",
     image: "./Stocker.png",
-    link: "https://stockerinventory.herokuapp.com/",
+    link: "https://github.com/SuedePritch/furry-leftover-broccoli",
     repo: "https://github.com/SuedePritch/furry-leftover-broccoli"
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     description:
       "This project uses a created database for users to review and discuss movies currently in theatres (Canada).",
     image: "./ExpressMovies.png",
-    link: "https://vast-shelf-82768.herokuapp.com/",
+    link: "https://github.com/WilliamL1998/crispy-octo-bassoon",
     repo: "https://github.com/WilliamL1998/crispy-octo-bassoon",
   },
   {
@@ -22,7 +22,7 @@ export const projects = [
     subtitle: "HTML, CSS and API",
     description:
       "This project uses a 3rd party API to search for a Brewery near the users location, their past search history will also be displayed on the left!",
-    image: "./project-3.gif",
+    image: "./BreweryNearMe.png",
     link: "https://tyomoto.github.io/BreweryNearMe/",
     repo: "https://github.com/tyomoto/BreweryNearMe/",
   },
