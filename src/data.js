@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "This project is a Full-Stack inventory management system that integrates seamlessly with a fully functional eCommerce site.",
-    image: "./project-1.gif",
+    image: "./Stocker.png",
     link: "https://stockerinventory.herokuapp.com/",
     repo: "https://github.com/SuedePritch/furry-leftover-broccoli"
   },
@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "MySQL, Nodejs, Express",
     description:
       "This project uses a created database for users to review and discuss movies currently in theatres (Canada).",
-    image: "./project-2.gif",
+    image: "./ExpressMovies.png",
     link: "https://vast-shelf-82768.herokuapp.com/",
     repo: "https://github.com/WilliamL1998/crispy-octo-bassoon",
   },
@@ -31,7 +31,7 @@ export const projects = [
     subtitle: "JavaScript, MySQL",
     description:
       "This project is a command line app that helps to manage a company's database of employees.",
-    image: "./project-4.gif",
+    image: "./EmployeeTracker.png",
     link: "https://github.com/tyomoto/SQL-Employee-Tracker/",
     repo: "https://github.com/tyomoto/SQL-Employee-Tracker/",
   },
@@ -43,23 +43,6 @@ export const projects = [
     image: "./TeamProfileGenerator.png",
     link: "https://github.com/tyomoto/cautious-goggles",
     repo: "https://github.com/tyomoto/cautious-goggles",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "TEST EXMAMPLE TESTIMONY",
-    image: "https://randomuser.me/api/portraits/men/8.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "TEST EXMAMPLE TESTIMONY",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
   },
 ];
 
